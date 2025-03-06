@@ -62,9 +62,9 @@ We now dive into a brief exploration of dominant topics across the dataset. We s
 4. We optimized DBSCAN's $\epsilon$ and `min_samples` parameters based on `silhouette_score`.
 5. We plotted the results
 
-![cluster](img/cluster.png)
 
-<!-- <iframe src="cluster_1k_eps_0.12_ms_4.html" width="100%" height="500px"></iframe> -->
+<iframe src="https://www.atlasia.ma/al-atlas-blog/cluster.html" width="100%" height="500px"></iframe> 
+<!-- ![cluster](img/cluster.png) -->
 
 It turns out that the topics discussed ranges from Moroccan news and politics to climate change, sports, art, movies, Moroccan recepies and everday needs. 
 
